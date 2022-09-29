@@ -7,7 +7,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <div className="title">
-          I am an admin My Ci cd Demo class file Done  ci-cd tool in s3bucket.vikash choudhary
+          I am an admin my Cicd Demo class file Done  cicd tool in s3bucket vikash choudhary
         </div>
       </div>
     );
